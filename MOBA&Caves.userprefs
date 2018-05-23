@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Terrain\DesroyStone.cs">
+    <Files>
+      <File FileName="Assets\Player\PlayerEQ.cs" Line="1" Column="1" />
+      <File FileName="Assets\Player\PutBlock.cs" Line="1" Column="1" />
+      <File FileName="Assets\Manager\FPS.cs" Line="1" Column="1" />
+      <File FileName="Assets\Terrain\DesroyStone.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
